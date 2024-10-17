@@ -1,7 +1,11 @@
 <h1>Vstup Parser 2023</h1>
 Soft for parsing https://vstup.osvita.ua/
 <br>
-![1](https://github.com/user-attachments/assets/2983ad3b-58b1-4281-8cc2-27b817b1f000)
+<br>
+<img src="https://github.com/user-attachments/assets/4be635c1-3a61-4dac-99ba-ef1455a0942a" width="700" height="75">
+<img src="https://github.com/user-attachments/assets/43beb3f0-28ff-49cd-bf8f-68cf80b9a91a" width="750" height="130">
+<img src="https://github.com/user-attachments/assets/4b752cd4-249b-4fca-ba5c-2dba625433bb" width="300" height="300">
+
 
 
 
